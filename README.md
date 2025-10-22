@@ -58,6 +58,10 @@ Gambar 8
 
 Gambar 9
 
+![foto](https://github.com/NadhiaShafira/Lab5Web/blob/3f6c651e6999f1712a50a166f966c928c62f91f7/fotoFoto/Gambar%209.png)
+
+Gambar 10
+
 ![foto](
 
 
