@@ -16,4 +16,10 @@ Gambar 1
 
 Gambar 2
 
+![foto](https://github.com/NadhiaShafira/Lab5Web/blob/75cbb82c498a6d786ceb52f5b87a612dff5a4266/fotoFoto/Gambar%202.png) 
+
+**Penjelasan**
+
+Gambar 3
+
 ![foto](
