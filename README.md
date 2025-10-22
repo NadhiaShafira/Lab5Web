@@ -70,6 +70,12 @@ Gambar 10
 
 Gambar 11
 
+![foto](https://github.com/NadhiaShafira/Lab5Web/blob/60a8e042dd3cb1aeec48f077f1acfd3f89ef0e04/fotoFoto/Gambar%2011.png)
+
+**Penjelasan**
+
+Gambar 12
+
 ![foto](
 
 
