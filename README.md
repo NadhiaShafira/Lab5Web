@@ -22,4 +22,4 @@ Gambar 2
 
 Gambar 3
 
-![foto](
+![foto](https://github.com/NadhiaShafira/Lab5Web/blob/a6f62e7ed2601906a8bd866590897e2a379c666b/fotoFoto/Gambar%203.png) 
