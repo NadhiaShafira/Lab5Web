@@ -46,6 +46,12 @@ Gambar 6
 
 Gambar 7
 
+![foto](https://github.com/NadhiaShafira/Lab5Web/blob/9251fc266ecb31deab59dbc6d14e5b746cfaa6fa/fotoFoto/Gambar%207.png)
+
+**Penjelasan**
+
+Gambar 8
+
 ![foto](
 
 
