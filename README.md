@@ -80,17 +80,38 @@ document.write("Hai, " + nama + "! ..."); → menampilkan hasil input di halaman
 
 **Penjelasan**
 
+```Penjelasan:
+
+function pesan() → mendefinisikan fungsi bernama pesan.
+
+alert("Memanggil fungsi JavaScript"); → menampilkan kotak pesan saat fungsi dijalankan.
+
+Tombol <input type="button"> dipakai untuk memanggil fungsi saat diklik.
+→ onclick="pesan()" artinya tombol itu akan menjalankan fungsi pesan().
+```
+
 **Gambar 7**
 
 ![foto](https://github.com/NadhiaShafira/Lab5Web/blob/9251fc266ecb31deab59dbc6d14e5b746cfaa6fa/fotoFoto/Gambar%207.png)
 
 **Penjelasan**
 
+```Penjelasan:
+
+var nilai1 = 10; var nilai2 = 5; → mendefinisikan dua variabel angka.
+
++ - * / → operator aritmatika (penjumlahan, pengurangan, perkalian, pembagian).
+
+document.write() → menampilkan hasil di halaman web.
+```
+
 **Gambar 8**
 
 ![foto](https://github.com/NadhiaShafira/Lab5Web/blob/04efa1f09ec5aeee39221123745ebc94b9171b08/fotoFoto/Gambar%208.png)
 
 **Penjelasan**
+
+```
 
 **Gambar 9**
 
