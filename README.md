@@ -23,3 +23,18 @@ Gambar 2
 Gambar 3
 
 ![foto](https://github.com/NadhiaShafira/Lab5Web/blob/a6f62e7ed2601906a8bd866590897e2a379c666b/fotoFoto/Gambar%203.png) 
+
+**Penjelasan**
+
+Gambar 4
+
+![foto](https://github.com/NadhiaShafira/Lab5Web/blob/5196e49dd6a42b93b46c5b7bf634f7be26d4f464/fotoFoto/Gambar%204.png)
+
+
+**Penjelesan**
+
+
+Gambar 5
+
+![foto[(
+
