@@ -60,8 +60,18 @@ Gambar 9
 
 ![foto](https://github.com/NadhiaShafira/Lab5Web/blob/3f6c651e6999f1712a50a166f966c928c62f91f7/fotoFoto/Gambar%209.png)
 
+**Penjelasan**
+
 Gambar 10
 
+![foto](https://github.com/NadhiaShafira/Lab5Web/blob/0dfe3a2e904c61eebe45634fb332076d969777d0/fotoFoto/Gambar%2010.png)
+
+**Penjelasan**
+
+Gambar 11
+
 ![foto](
+
+
 
 
