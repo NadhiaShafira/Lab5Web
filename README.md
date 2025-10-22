@@ -30,17 +30,22 @@ Gambar 4
 
 ![foto](https://github.com/NadhiaShafira/Lab5Web/blob/5196e49dd6a42b93b46c5b7bf634f7be26d4f464/fotoFoto/Gambar%204.png)
 
-
 **Penjelesan**
-
 
 Gambar 5
 
 ![foto](https://github.com/NadhiaShafira/Lab5Web/blob/f8e44225304070ad73de1a21ed782d5872339026/fotoFoto/Gambar%205.png)
 
-
 **Penjelasan**
 
 Gambar 6
 
+![foto](https://github.com/NadhiaShafira/Lab5Web/blob/cdf193563088946c12cbac1e1143f98b4c072466/fotoFoto/Gambar%206.png) 
+
+**Penjelasan**
+
+Gambar 7
+
 ![foto](
+
+
