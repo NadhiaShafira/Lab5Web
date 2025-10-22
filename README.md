@@ -8,11 +8,21 @@
 
 **Matkul          : Pemograman Web 1**
 
+
 Gambar 1
 
 ![foto](https://github.com/NadhiaShafira/Lab5Web/blob/9b63fdc2a27633d89f23bb4b5740cd339115ce11/fotoFoto/Gambar%201.png) 
 
 **Penjelasan**
+
+```Penjelasan singkatnya:
+
+window.alert("...") → munculkan kotak pesan (alert box).
+
+document.write("...") → tampilkan teks langsung di halaman web.
+
+console.log("...") → kirim pesan ke console browser.
+```
 
 Gambar 2
 
@@ -76,7 +86,11 @@ Gambar 11
 
 Gambar 12
 
-![foto](
+![foto](https://github.com/NadhiaShafira/Lab5Web/blob/89f85374e41401ac524d866e11f8db77f93dd272/fotoFoto/Gambar%2012.png) 
+
+**Penjelasan**
+
+
 
 
 
